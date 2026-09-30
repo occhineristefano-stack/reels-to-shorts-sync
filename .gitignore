@@ -1,0 +1,20 @@
+# Credenziali Google OAuth e Token (MAI committare)
+client_secrets.json
+token.json
+
+# Input link personali / batch corrente
+links.txt
+
+# File personali e appunti locali
+comando.txt
+
+# Cartella download temporanea e file video/didascalie
+video_da_caricare/
+*.mp4
+*.description
+
+# Python cache & ambienti virtuali
+__pycache__/
+*.pyc
+venv/
+.env

@@ -1,0 +1,8 @@
+# ==========================================
+# IT: Inserisci qui i link dei Reel di Instagram (uno per riga)
+# EN: Paste your Instagram Reels URLs here (one per line)
+# ==========================================
+
+https://www.instagram.com/reel/Cxxxxxx1/
+https://www.instagram.com/reel/Cxxxxxx2/
+https://www.instagram.com/reel/Cxxxxxx3/
